@@ -1,0 +1,15 @@
+body{
+    background-color: #cccc;
+}
+
+.container{
+    width: 30%;
+    border: solid black 2px;
+    
+}
+
+p{
+    color: rgb(5, 5, 97);
+    text-align: center;
+    
+}
